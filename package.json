@@ -1,0 +1,59 @@
+{
+  "name": "passport-product-hunt",
+  "version": "0.0.2",
+  "description": "Product hunt authentication strategy for Passport.",
+  "keywords": [
+    "passport",
+    "product",
+    "hunt",
+    "auth",
+    "authn",
+    "authentication",
+    "identity"
+  ],
+  "author": {
+    "name": "Jon Sharratt",
+    "email": "jon@allotropy.io"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/allotropyio/passport-product-hunt.git"
+  },
+  "bugs": {
+    "url": "http://github.com/allotropyio/passport-product-hunt/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "main": "./lib",
+  "dependencies": {
+    "passport-oauth2": "1.x.x"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "homepage": "https://github.com/allotropyio/passport-product-hunt",
+  "_id": "passport-product-hunt@0.0.2",
+  "dist": {
+    "shasum": "289d63b7b36c5fdb2ee9f820fcd15d3f56cdf7c6",
+    "tarball": "http://registry.npmjs.org/passport-product-hunt/-/passport-product-hunt-0.0.2.tgz"
+  },
+  "_from": "passport-product-hunt@*",
+  "_npmVersion": "1.4.4",
+  "_npmUser": {
+    "name": "jonsharratt",
+    "email": "jon.sharratt@red-badger.com"
+  },
+  "maintainers": [
+    {
+      "name": "jonsharratt",
+      "email": "jon.sharratt@red-badger.com"
+    }
+  ],
+  "directories": {},
+  "_shasum": "289d63b7b36c5fdb2ee9f820fcd15d3f56cdf7c6",
+  "_resolved": "https://registry.npmjs.org/passport-product-hunt/-/passport-product-hunt-0.0.2.tgz"
+}
